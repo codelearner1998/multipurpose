@@ -30,6 +30,8 @@ header {
   z-index: 1000;
 }
 
+
+
 header a {
   color: #fff;
 }
@@ -156,8 +158,8 @@ header::after {
 
 form input.btn-primary:hover,
 form button.btn-primary:hover {
-  background-color: #fff;
-  color: #ee1515;
+  background-color: #971515;
+  
 }
 
 /*-----------------------------------
@@ -931,6 +933,24 @@ span {
 .foot-note a.fh5-link {
   margin-left: 0;
 }
+
+textarea {
+  resize: none;
+  vertical-align: top;
+  
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
